@@ -1,2 +1,39 @@
 # henna-website
 Henna Studio Website for Mehndi Services
+# 💚 Henna Studio Website
+
+Welcome to **Henna Studio** — a beautiful and simple website for Mehndi (Henna) services.
+
+---
+
+## ✨ Services
+
+- Bridal Mehndi
+- Eid Special Designs
+- Arabic Henna
+- Party Mehndi
+
+---
+
+## 📞 Contact
+
+- Phone: +92 300 0000000
+- WhatsApp: Available for booking
+
+---
+
+## 🌐 Live Website
+
+👉 https://your-username.github.io/henna-website/
+
+---
+
+## 📌 About
+
+This website is created using simple **HTML & CSS** and hosted for free.
+
+---
+
+## ❤️ Creator
+
+Made with love by Henna Artist
